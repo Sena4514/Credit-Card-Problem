@@ -1,0 +1,9 @@
+C:\Users\Macbook\Desktop\190601045_Sena_Koçak_BİL304_Odev3\credit_card_problem\credit_card_problem\bin\Debug\credit_card_problem.exe.config
+C:\Users\Macbook\Desktop\190601045_Sena_Koçak_BİL304_Odev3\credit_card_problem\credit_card_problem\bin\Debug\credit_card_problem.exe
+C:\Users\Macbook\Desktop\190601045_Sena_Koçak_BİL304_Odev3\credit_card_problem\credit_card_problem\bin\Debug\credit_card_problem.pdb
+C:\Users\Macbook\Desktop\190601045_Sena_Koçak_BİL304_Odev3\credit_card_problem\credit_card_problem\obj\Debug\credit_card_problem.csprojAssemblyReference.cache
+C:\Users\Macbook\Desktop\190601045_Sena_Koçak_BİL304_Odev3\credit_card_problem\credit_card_problem\obj\Debug\credit_card_problem.Properties.Resources.resources
+C:\Users\Macbook\Desktop\190601045_Sena_Koçak_BİL304_Odev3\credit_card_problem\credit_card_problem\obj\Debug\credit_card_problem.csproj.GenerateResource.cache
+C:\Users\Macbook\Desktop\190601045_Sena_Koçak_BİL304_Odev3\credit_card_problem\credit_card_problem\obj\Debug\credit_card_problem.csproj.CoreCompileInputs.cache
+C:\Users\Macbook\Desktop\190601045_Sena_Koçak_BİL304_Odev3\credit_card_problem\credit_card_problem\obj\Debug\credit_card_problem.exe
+C:\Users\Macbook\Desktop\190601045_Sena_Koçak_BİL304_Odev3\credit_card_problem\credit_card_problem\obj\Debug\credit_card_problem.pdb
